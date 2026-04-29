@@ -1,3 +1,4 @@
 # JavaScript-lit-page-examination
-# JavaScript-lit-page-examination
-# JavaScript-lit-page-examination
+
+example of lit-html and page
+
